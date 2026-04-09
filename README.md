@@ -1,6 +1,6 @@
 # Multi Agent RAG Researcher
 
-This project is a multi-agent research system based on an orchestrator that coordinates three worker agents to work together on a topic and generate grounded content. It works with two evidence sources: local PDF documents and the web.
+Multi-agent research system based on an orchestrator that coordinates three worker agents to work together on a topic and generate grounded content. It works with two evidence sources: local PDF documents and the web.
 
 The three worker agents are:
 
