@@ -106,7 +106,7 @@ with gr.Blocks(theme=gr.themes.Soft()) as demo:
     )
     message = gr.Textbox(
         show_label=False,
-        placeholder="Ask about the PDFs",
+        placeholder="Research on a topic",
         container=False,
     )
 

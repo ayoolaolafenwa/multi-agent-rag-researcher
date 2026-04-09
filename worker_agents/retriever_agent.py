@@ -89,7 +89,7 @@ def web_search(query: str, num_results: int = 5) -> Dict[str, Any]:
         return {"query": query, "results": []}
 
 
-RETRIEVER_MODEL = "gpt-5.4"
+RETRIEVER_MODEL = "gpt-5.4-mini"
 RETRIEVER_REASONING_EFFORT = "low"
 
 # Guides the retriever agent on how to interact with the available tools

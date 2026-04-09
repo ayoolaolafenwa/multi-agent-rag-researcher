@@ -161,7 +161,7 @@ ORCHESTRATOR_INSTRUCTIONS = (
     - Return the verifier output when available.
     """
 )
-ORCHESTRATOR_MODEL = "gpt-5.4"
+ORCHESTRATOR_MODEL = "gpt-5.4-mini"
 ORCHESTRATOR_REASONING_EFFORT = "low"
 
 # Format the current orchestration state for the model.
