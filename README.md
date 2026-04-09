@@ -2,8 +2,8 @@
 
 ## Featured Demo: Gemma 3 Paper vs. Gemma 4 Release
 
-<video src="./demo.mov" controls playsinline preload="metadata" width="100%">
-  Your browser does not support the video tag. Open the demo clip at <a href="./demo.mov">demo.mov</a>.
+<video src="./demo.mp4" controls playsinline preload="metadata" width="100%">
+  Your browser does not support the video tag. Open the demo clip at <a href="./demo.mp4">demo.mp4</a>.
 </video>
 
 
