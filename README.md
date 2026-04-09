@@ -1,15 +1,6 @@
 # Multi Agent RAG Researcher
 
-## Featured Demo: Gemma 3 Paper vs. Gemma 4 Release
-
-<video src="./demo.mp4" controls playsinline preload="metadata" width="100%">
-  Your browser does not support the video tag. Open the demo clip at <a href="./demo.mp4">demo.mp4</a>.
-</video>
-
-
-This demo shows the system comparing a local PDF, the [Gemma 3 Technical Report](./docs/Gemma%203%20Technical%20Report.pdf), with the latest official Gemma 4 information available on the web. 
-
-Multi-agent research system is based on an orchestrator that coordinates three worker agents to work together on a topic and generate grounded content. It works with two evidence sources: local PDF documents and the web.
+Multi Agent RAG Researcher is based on an orchestrator that coordinates three worker agents to work together on a topic and generate grounded content. It works with two evidence sources: local PDF documents and the web.
 
 The three worker agents are:
 
