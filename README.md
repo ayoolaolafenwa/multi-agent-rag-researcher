@@ -1,4 +1,5 @@
 # Multi Agent RAG Researcher
+![cover](rag-researcher.png)
 
 Multi Agent RAG Researcher is based on an orchestrator that coordinates three worker agents to work together on a topic and generate grounded content. It works with two evidence sources: local PDF documents and the web.
 
